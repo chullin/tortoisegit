@@ -1,3 +1,5 @@
 沒內容也要可以吧ㄥ
 notepad "Implement Stack by Python.txt"
 無聊練習一下 git 指令
+
+https://w3c.hexschool.com/git/b9be5b1e
